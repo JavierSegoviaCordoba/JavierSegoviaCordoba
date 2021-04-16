@@ -28,6 +28,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_notable: yes
           plugin_people: yes
           plugin_people_limit: 28
           plugin_people_size: 28
