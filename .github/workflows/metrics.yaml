@@ -40,10 +40,10 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_sections: .
           plugin_stackoverflow_user: 3262021
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_limit: 2
-          plugin_tweets_user: JavierSegoviaCo
+          # plugin_tweets: yes
+          # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          # plugin_tweets_limit: 2
+          # plugin_tweets_user: JavierSegoviaCo
           repositories: 999
           repositories_batch: 100
           repositories_forks: yes
