@@ -34,11 +34,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>1000
-          plugin_notable_repositories: yes
-          plugin_notable_indepth: true
+          plugin_notable_filter: starts:>1000 sort:stars
           plugin_notable_from: all
-          plugin_notable_types: commit, pull_request
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_notable_self: true
           plugin_repositories: no
           plugin_stackoverflow: yes
