@@ -34,7 +34,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>150
+          plugin_notable_filter: stars:>1000
           plugin_notable_repositories: yes
           plugin_notable_indepth: true
           plugin_repositories: no
