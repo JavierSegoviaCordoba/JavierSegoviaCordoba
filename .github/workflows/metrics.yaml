@@ -34,7 +34,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>1000 sort:stargazers
+          plugin_notable_filter: stars:>3000 sort:stargazers
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: true
